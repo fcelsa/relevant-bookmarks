@@ -9,9 +9,9 @@ A [Chrome extension](https://chrome.google.com/webstore/detail/relevant-bookmark
 
 ### Use cases
 
-- You are on a github issues page for a project - you can see all the relevant issues you have bookmarked.
-- You are on profile of a Medium user - you can see all the relavent articles by that user.
-- You are on stackoverflow - you can see all the relavent questions you had bookmarked.
+- You are on a GitHub issues page for a project - you can see all the relevant issues you have bookmarked.
+- You are on profile of a Medium user - you can see all the relevant articles by that user.
+- You are on stack-overflow - you can see all the relevant questions you had bookmarked.
 - [Youtube](https://youtube.com) videos, [dev.to](https://dev.to) articles etc.
 
 ### Permissions required
@@ -21,11 +21,11 @@ As mentioned in the [manifest.json](https://github.com/kunalpanchal/relevant-boo
 - tabs
 - storage
 
-### Settings availble
+### Settings available
 
 - Change font size
 - Show URLs for Bookmarks
 - Maximum bookmarks to show.
 
 
-Visit [Chrome WebStore](https://chrome.google.com/webstore/detail/relevant-bookmarks/jjdfcopklimoeoneklaopogaghhhlmed) to downlaod this extension. To know more about how the bookmarks are categorized as relevant, read the [main logic](https://github.com/kunalpanchal/relevant-bookmarks/blob/main/src/browser_action/browser_action.js#L72) for this extension.
+Visit [Chrome WebStore](https://chrome.google.com/webstore/detail/relevant-bookmarks/jjdfcopklimoeoneklaopogaghhhlmed) to download this extension. To know more about how the bookmarks are categorized as relevant, read the [main logic](https://github.com/kunalpanchal/relevant-bookmarks/blob/main/src/browser_action/browser_action.js#L72) for this extension.
